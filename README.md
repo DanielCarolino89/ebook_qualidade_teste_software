@@ -33,7 +33,7 @@ O ebook está sendo desenvolvido em formato colaborativo e poderá conter tópic
 ## 👥 Autores e Colaboradores
 
 Idealizado por [@orlandosaraivajr](https://github.com/orlandosaraivajr)  
-Colaboradores: [adicione seu nome aqui no seu PR!]
+Colaboradores: [@danielcarolino89](https://github.com/danielcarolino89)  
 
 ## 📖 Licença
 
